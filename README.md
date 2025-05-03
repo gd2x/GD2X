@@ -1,14 +1,14 @@
 # 🌐 Open Data Exchange Working Group (ODX-WG)
 
-The **Open Data Exchange Working Group (ODX-WG)** is responsible for the **design, governance, and evolution** of the G2DX platform—an open, decentralized ecosystem focused on secure, censorship-resistant data exchange.
+The **Open Data Exchange Working Group (ODX-WG)** is responsible for the **design, governance, and evolution** of the GD2X platform—an open, decentralized ecosystem focused on secure, censorship-resistant data exchange.
 
-ODX-WG brings together a **global community of experts, engineers, and innovators** to collaboratively define the standards, protocols, and governance models that power both the **Trusted Market** and the **Open Data Market (ODM)** within G2DX. Our mission is to ensure that the platform remains **technologically robust, privacy-centric, and aligned with its vision of absolute digital sovereignty.**
+ODX-WG brings together a **global community of experts, engineers, and innovators** to collaboratively define the standards, protocols, and governance models that power both the **Trusted Market** and the **Open Data Market (ODM)** within GD2X. Our mission is to ensure that the platform remains **technologically robust, privacy-centric, and aligned with its vision of absolute digital sovereignty.**
 
 ---
 
 ## 🚧 Project Status
 
-**The G2DX project is currently under active development.**  
+**The GD2X project is currently under active development.**  
 We are working to release the platform as **open-source software,** providing transparent access to its codebase and governance processes. Regular updates and technical roadmaps will be published as the project progresses.
 
 ---
@@ -20,7 +20,7 @@ Our mission is to:
 - Establish a **decentralized, censorship-proof infrastructure** for global data exchange.
 - Define and maintain the **technical and legal standards** that ensure security, compliance (for the Trusted Market), and total autonomy (for the ODM).
 - Foster an **inclusive, collaborative environment** where experts and contributors can participate in the platform’s growth and evolution.
-- Guarantee the long-term sustainability, independence, and resilience of G2DX through **transparent governance** and continuous improvement.
+- Guarantee the long-term sustainability, independence, and resilience of GD2X through **transparent governance** and continuous improvement.
 
 ---
 
@@ -66,7 +66,7 @@ We welcome all contributors, stakeholders, and interested community members to j
 
 - **Mailing List:** _[To be announced]_  
 - **Slack Channel:** _[To be announced]_  
-- **Official Website:** [https://g2dx.net](https://g2dx.net)
+- **Official Website:** [https://GD2X.net](https://GD2X.net)
 
 💡 **Note:** While much of the discussion happens in meetings, **collaboration and decision-making** continue asynchronously through our communication channels.
 
@@ -107,5 +107,5 @@ ODX-WG is committed to producing:
 
 ---
 
-*For inquiries, updates, and contributions, visit [https://g2dx.net](https://g2dx.net). Together, we are building the future of sovereign data exchange.*
-
+*For inquiries, updates, and contributions, visit [https://GD2X.net](https://GD2X.net). Together, we are building the future of sovereign data exchange.*
+contact@gd2x.net
